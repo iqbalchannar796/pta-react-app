@@ -1,0 +1,7 @@
+{
+  "mongoURI":"mongodb+srv://brand123:brand123@devconnector-dsfha.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret":"mysecrettoken",
+  "githubClientId":"105a35a82d15e88aec3f",
+  "githubClientSecret":"dc51e060d9d5922563e2e4dd64eac17625db4063"
+
+}
